@@ -1,0 +1,2 @@
+- Creating and training a neaural network able to identify digits with 99% accuracy.
+- A program that is able to identify language using a recurrent neural network.
